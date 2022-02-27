@@ -1,0 +1,8 @@
+{
+  "name": "Health Reader",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "1b8c59ed"
+}
